@@ -1,0 +1,2 @@
+The time indicated in the reset is an estimation derived from the recorded measurement time and the number of measurement points (delta t=total_time/N, time_i+1=time_i+dt, time_1=dt).
+The time indicated in the set is the real measurement time.
